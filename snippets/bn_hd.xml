@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="airend" fetch="." revision="ng-14" />
+
+  <remote  name="unlegacy" fetch="../Unlegacy-Android"
+           revision="aosp-8.0" />
+
+  <remote  name="omni" fetch="../OmniROM"
+           review="gerrit.omnirom.org"
+           revision="android-8.0" />
+
+  <remote  name="lnos" fetch="../LineageOS"
+           review="review.lineageos.org"
+           revision="lineage-15.0" />
+
+  <remote  name="github" fetch=".."
+           revision="master" />
+
+  <project path="kernel/bn/omap" name="android_kernel_bn_omap" remote="airend" />
+
+  <project path="device/bn/common" name="android_device_bn_common" remote="airend" />
+  <project path="device/bn/ovation" name="android_device_bn_ovation" remote="airend" />
+  <project path="device/bn/hummingbird" name="android_device_bn_hummingbird" remote="airend" />
+
+  <project path="vendor/ti" name="proprietary_vendor_ti" remote="unlegacy" revision="stable" />
+  <project path="vendor/bn" name="proprietary_vendor_bn" remote="unlegacy" revision="stable" />
+  <project path="vendor/widevine" name="proprietary_vendor_widevine" remote="unlegacy" />
+
+</manifest>
