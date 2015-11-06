@@ -36,4 +36,7 @@
   <!-- camera.omap4 -->
   <project path="external/jhead" name="platform/external/jhead" revision="nougat-mr2-release" groups="omap4,espresso,tuna" />
 
+  <project path="external/libncurses" name="android_external_libncurses" remote="lnos" />
+  <project path="external/nano" name="android_external_nano" remote="lnos" />
+
 </manifest>
