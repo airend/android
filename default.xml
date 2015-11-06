@@ -196,6 +196,7 @@
   <project path="external/libmojo" name="platform/external/libmojo" groups="pdk" />
   <project path="external/libmpeg2" name="platform/external/libmpeg2" groups="pdk" />
   <project path="external/libmtp" name="platform/external/libmtp" groups="pdk" />
+  <project path="external/libncurses" name="android_external_libncurses" remote="lnos" />
   <project path="external/libnetfilter_conntrack" name="platform/external/libnetfilter_conntrack" groups="pdk" />
   <project path="external/libnfnetlink" name="platform/external/libnfnetlink" groups="pdk" />
   <project path="external/libnl" name="platform/external/libnl" groups="pdk" />
@@ -238,6 +239,7 @@
   <project path="external/modp_b64" name="platform/external/modp_b64" groups="pdk" />
   <project path="external/mp4parser" name="platform/external/mp4parser" groups="pdk" />
   <project path="external/mtpd" name="platform/external/mtpd" groups="pdk" />
+  <project path="external/nano" name="android_external_nano" remote="lnos" />
   <project path="external/nanohttpd" name="platform/external/nanohttpd" groups="pdk" />
   <project path="external/nanopb-c" name="platform/external/nanopb-c" groups="pdk" />
   <project path="external/naver-fonts" name="platform/external/naver-fonts" groups="pdk" />
