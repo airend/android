@@ -23,4 +23,6 @@
   <!-- camera.omap4 -->
   <project path="external/jhead" name="platform/external/jhead" remote="aosp" revision="nougat-mr2-release" groups="omap4,espresso,tuna" />
 
+  <project path="external/exfat-nofuse" name="dorimanx/exfat-nofuse" remote="github" revision="master" />
+
 </manifest>
