@@ -508,4 +508,7 @@
 
   <include name="snippets/cm.xml" />
 
+  <!-- Device-specific -->
+  <include name="snippets/nooks.xml" />
+
 </manifest>
