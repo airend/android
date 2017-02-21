@@ -370,7 +370,7 @@
   <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" />
   <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" groups="pdk" />
   <project path="hardware/ril" name="platform/hardware/ril" groups="pdk" />
-  <project path="hardware/ti/omap4" name="android_hardware_ti_omap4" remote="airend" />
+  <project path="hardware/ti/omap4" name="android_hardware_ti_omap4" remote="airend" revision="stable" />
   <project path="hardware/ti/wlan" name="android_hardware_ti_wlan" remote="lnos" />
   <project path="hardware/ti/wpan" name="android_hardware_ti_wpan" remote="lnos" />
   <project path="libcore" name="platform/libcore" groups="pdk" />
