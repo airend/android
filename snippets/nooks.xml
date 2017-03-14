@@ -22,8 +22,8 @@
   <project path="device/bn/hummingbird" name="android_device_bn_hummingbird" remote="airend" />
 
   <project path="hardware/ti/omap4" name="android_hardware_ti_omap4" remote="unlegacy" revision="stable" />
-  <project path="hardware/ti/wlan" name="android_hardware_ti_wlan" remote="unlegacy" revision="stable" />
-  <project path="hardware/ti/wpan" name="android_hardware_ti_wpan" remote="unlegacy" revision="stable" />
+  <project path="hardware/ti/wlan" name="android_hardware_ti_wlan" remote="airend" revision="stable" />
+  <project path="hardware/ti/wpan" name="android_hardware_ti_wpan" remote="airend" revision="stable" />
 
   <project path="kernel/bn/omap" name="android_kernel_bn_omap" remote="airend" revision="stable" />
 
