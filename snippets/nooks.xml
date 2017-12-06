@@ -32,4 +32,7 @@
 
   <project path="vendor/widevine" name="proprietary_vendor_widevine" remote="unlegacy" />
 
+  <!-- camera.omap4 -->
+  <project path="external/jhead" name="platform/external/jhead" revision="nougat-mr2-release" groups="omap4,espresso,tuna" />
+
 </manifest>
