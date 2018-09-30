@@ -17,7 +17,7 @@
   <remote  name="github" fetch=".."
            revision="master" />
 
-  <project path="device/bn/common" name="android_device_bn_common" remote="airend" />
+  <project path="device/bn/common" name="android_device_bn_common" remote="airend" revision="wip/k-next" />
   <project path="device/bn/ovation" name="android_device_bn_ovation" remote="airend" />
   <project path="device/bn/hummingbird" name="android_device_bn_hummingbird" remote="airend" />
 
@@ -25,7 +25,7 @@
   <project path="hardware/ti/wlan" name="android_hardware_ti_wlan" remote="airend" revision="stable" />
   <project path="hardware/ti/wpan" name="android_hardware_ti_wpan" remote="airend" revision="stable" />
 
-  <project path="kernel/bn/omap" name="android_kernel_bn_omap" remote="airend" revision="stable" />
+  <project path="kernel/bn/omap" name="android_kernel_bn_omap" remote="airend" revision="3.4/nookhd" />
 
   <project path="vendor/ti" name="proprietary_vendor_ti" remote="airend" />
   <project path="vendor/bn" name="proprietary_vendor_bn" remote="unlegacy" revision="stable" />
