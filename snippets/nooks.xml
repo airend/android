@@ -15,7 +15,7 @@
 
   <project path="kernel/bn/omap" name="android_kernel_bn_omap" remote="airend" revision="stable" />
 
-  <project path="vendor/ti" name="proprietary_vendor_ti" remote="unlegacy" revision="stable" />
+  <project path="vendor/ti" name="proprietary_vendor_ti" remote="airend" revision="stable" />
   <project path="vendor/bn" name="proprietary_vendor_bn" remote="unlegacy" revision="stable" />
 
   <project path="vendor/widevine" name="proprietary_vendor_widevine" remote="unlegacy" />
