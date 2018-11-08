@@ -30,6 +30,7 @@
   <project path="vendor/ti" name="proprietary_vendor_ti" remote="unlegacy" revision="stable" />
   <project path="vendor/bn" name="proprietary_vendor_bn" remote="unlegacy" revision="stable" />
 
+  <project path="vendor/unlegacy" name="android_vendor_unlegacy" remote="unlegacy" />
   <project path="vendor/widevine" name="proprietary_vendor_widevine" remote="unlegacy" />
 
 </manifest>
